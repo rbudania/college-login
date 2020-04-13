@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/college-login/static/css/main.2f6626f0.chunk.css",
+    "main.js": "/college-login/static/js/main.0da1dd56.chunk.js",
+    "main.js.map": "/college-login/static/js/main.0da1dd56.chunk.js.map",
+    "runtime-main.js": "/college-login/static/js/runtime-main.492ad7c9.js",
+    "runtime-main.js.map": "/college-login/static/js/runtime-main.492ad7c9.js.map",
+    "static/css/2.7ad897a5.chunk.css": "/college-login/static/css/2.7ad897a5.chunk.css",
+    "static/js/2.6f9ff3ce.chunk.js": "/college-login/static/js/2.6f9ff3ce.chunk.js",
+    "static/js/2.6f9ff3ce.chunk.js.map": "/college-login/static/js/2.6f9ff3ce.chunk.js.map",
+    "index.html": "/college-login/index.html",
+    "precache-manifest.faf37bd48fdc10dc00013f4c9059021e.js": "/college-login/precache-manifest.faf37bd48fdc10dc00013f4c9059021e.js",
+    "service-worker.js": "/college-login/service-worker.js",
+    "static/css/2.7ad897a5.chunk.css.map": "/college-login/static/css/2.7ad897a5.chunk.css.map",
+    "static/css/main.2f6626f0.chunk.css.map": "/college-login/static/css/main.2f6626f0.chunk.css.map",
+    "static/js/2.6f9ff3ce.chunk.js.LICENSE.txt": "/college-login/static/js/2.6f9ff3ce.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/college-login/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.492ad7c9.js",
+    "static/css/2.7ad897a5.chunk.css",
+    "static/js/2.6f9ff3ce.chunk.js",
+    "static/css/main.2f6626f0.chunk.css",
+    "static/js/main.0da1dd56.chunk.js"
+  ]
+}
